@@ -1,0 +1,12 @@
+Added Component: Designator=Rt1(PCBComponent_1)
+Add component (AddParameter): Name = "Manufactured Part Number"; Value = "STD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Size"; Value = "0.689 x 0.217"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC3_1 Pin=Rt1-2
+Added Pin To Net: NetName=NetRt1_1 Pin=Rt1-1
+Added Pin To Net: NetName=NetRt1_1 Pin=TP2-1
+Added Net: Name=NetRt1_1
+Added Member To Class: ClassName=Sheet1_wiekszy Member=Component Rt1 cap_0.689 x 0.217
+Added Rule: Name=Schematic Clearance Constraint_1

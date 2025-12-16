@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator= NewDesignator=C30
+Change Component Designator: OldDesignator=4 NewDesignator=C3
+Change Component Designator: OldDesignator=20 NewDesignator=C31
+Added Member To Class: ClassName=Sheet1 Member=Component C30 GRM188R71H104KA93D
+Added Member To Class: ClassName=Sheet1 Member=Component C31 0603YC105KAT2A
+Added Rule: Name=Schematic Clearance Constraint
+Added Rule: Name=Schematic Clearance Constraint_1
+Added Rule: Name=Schematic Clearance Constraint_2
+Added Rule: Name=Schematic Clearance Constraint_3
+Added Rule: Name=Schematic Clearance Constraint_4

@@ -1,0 +1,7 @@
+Added Component: Designator=RT1(PCBComponent_1)
+Add component (AddParameter): Name = "Manufactured"; Value = "Epcos"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufactured Part Number"; Value = "B57153S0479M000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package size"; Value = "0.590 x 0.276"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin RT1-3
+Add Pin To Net: Unknown Pin: Pin RT1-4
+Added Member To Class: ClassName=Sheet1_wiekszy Member=Component RT1 Thermistor

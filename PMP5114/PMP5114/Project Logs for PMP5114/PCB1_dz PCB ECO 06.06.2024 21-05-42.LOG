@@ -1,0 +1,6 @@
+Added Component: Designator=RT1(PCBComponent_1)
+Add Pin To Net: Unknown Pin: Pin RT1-4
+Added Pin To Net: NetName=NetRT1_3 Pin=TP2-1
+Added Net: Name=NetRT1_3
+Added Member To Class: ClassName=Sheet1_wiekszy Member=Component RT1 Thermistor
+Added Rule: Name=Schematic Clearance Constraint

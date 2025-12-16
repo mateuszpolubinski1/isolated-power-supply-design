@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=D3 Old Footprint=FP-340CC-MFG New Footprint=FP-340CC-MFG
+Change Component Footprint: Designator=D4 Old Footprint=FP-425-04-MFG New Footprint=FP-425-04-MFG
+Change Component Footprint: Designator=L1 Old Footprint=WE-CMB_Type XXL_L43.5W23.5H43 New Footprint=WE-CMB_Type XXL_L43.5W23.5H43
+Change Component Footprint: Designator=T1 Old Footprint=WE-FB_EP10 New Footprint=WE-FB_EP10
+Change Component Footprint: Designator=L3 Old Footprint=WE-PD_7332R New Footprint=WE-PD_7332R
+Change Component Footprint: Designator=L4 Old Footprint=WE-PD_7332R New Footprint=WE-PD_7332R
+Change Component Footprint: Designator=L5 Old Footprint=WE-PD_7332R New Footprint=WE-PD_7332R
+Change Component Footprint: Designator=L6 Old Footprint=WE-PD_7332R New Footprint=WE-PD_7332R
+Change Component Footprint: Designator=L7 Old Footprint=WE-PD_7332R New Footprint=WE-PD_7332R
+Change Net Name : Old Net Name=NetC8_1 New Net Name=VIN
+Added Member To Class: ClassName=Sheet1_wiekszy Member=Component L1 1.3mH
