@@ -14,7 +14,6 @@ Shared as view-only documentation (schematics/PCB screenshots/BOM).
 - `docs/schematic.pdf` – schematic export (if available)
 - `docs/pcb.png` – PCB view screenshot
 - `docs/BOM.csv` – bill of materials
-- `docs/architecture.png` – block diagram
 
 ## Status
 Prototype / design study. Not fully validated in hardware.
